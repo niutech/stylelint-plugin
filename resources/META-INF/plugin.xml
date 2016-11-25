@@ -1,7 +1,7 @@
 <idea-plugin version="2">
   <id>com.jokerzoid.intellij.plugin.stylelint</id>
   <name>IntelliJ Stylelint Plugin</name>
-  <version>1.1</version>
+  <version>1.2</version>
   <vendor url="https://github.com/Jardinero/stylelint-plugin">Jardinero</vendor>
 
   <description><![CDATA[
@@ -11,7 +11,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      Version 1.1: CSS/SCSS/LESS support
+      Version 1.2: CSS/SCSS/LESS support, fixed offset bug
     ]]>
   </change-notes>
 
